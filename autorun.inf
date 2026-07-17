@@ -1,0 +1,5 @@
+[AutoRun]
+open=data_extracter_v3.py
+icon=data_extracter_v3.py
+label=USB Security Audit Tool
+action=Run Security Audit

@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller
+#  Typically local package directory is templates, etc. but build/dist are generated
+build/
+dist/
+*.spec
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Local logs / audit data
+audit_log.json
+audit_report_*.json

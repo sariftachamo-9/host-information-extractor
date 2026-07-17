@@ -1,0 +1,14 @@
+{
+  "target_drive": "D:\\",
+  "max_depth": 3,
+  "auto_run": true,
+  "stealth_mode": false,
+  "last_run": "2026-02-02T16:02:48.331151",
+  "scan_all_drives": false,
+  "exclude_dirs": [
+    "Windows",
+    "Program Files",
+    "Program Files (x86)",
+    "$Recycle.Bin"
+  ]
+}
